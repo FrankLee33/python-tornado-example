@@ -1,0 +1,12 @@
+.idea/
+*.log
+*.py[cod]
+pip-log.txt
+pip-delete-this-directory.txt
+__pycache__/
+env/
+build/
+develop-eggs/
+dist/
+.installed.cfg
+.python-version
